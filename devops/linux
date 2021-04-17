@@ -40,7 +40,7 @@ cat >> -----------------> content adding (apend)
 
 rm <file name> -----------> to remove file
 
-rm -f ---------------> to remove forcefully
+rm -f ---------------> to remove file
 
 rm -rf <filename> ----------------> to remove directory
 
