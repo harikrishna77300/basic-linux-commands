@@ -1,0 +1,74 @@
+  
+
+
+
+	      ---------------------- Linux BAsic Commands ---------------------------------------------
+
+
+
+
+pwd      ---------------> Present working directory
+
+su root -----------------> switch the root
+
+cd .. ---------------------> one step back
+
+cd -  ----------------------> previous
+
+mkdir -----------------------> To make a Directory
+
+ls 
+
+ls -l  -----> long list
+ls -t  -----> a time
+ls -r  -----> reverse
+ls -a  -----> hidden filess      {Hidden files start [.] }
+
+touch <name> ----------> emty file command
+
+cat <name>  ----------> to give file check 
+
+cat> <file name> -------> to create content
+
+enter the some details ,
+
+next save ----> use cntrl DD
+
+cat > <filename> ---------> content replace
+
+cat >> -----------------> content adding (apend)
+
+rm <file name> -----------> to remove file
+
+rm -f ---------------> to remove forcefully
+
+rm -rf <filename> ----------------> to remove directory
+
+rm -rf* <file name>  ------------------> total directory remove (or) mutlipul files remove
+
+cp <source>    <destination> --------------> to copy files
+
+mv < source>    <destination> -------------> to movie files
+
+echo "enter any content" ---------------- --------------> to copy files
+
+mv < source>    <destination> -------------> to movie files
+
+echo "enter any content" ---------------- --------------> to copy files
+
+mv < source>    <destination> -------------> to movie files
+
+echo "enter any content" ------------> to print the value
+
+vi /etc/hostname ---------------> to host name change
+
+enter hostname nxt use this command :wq
+
+   --------------or ------------------
+
+ hostname -f/  --------------> hostname chng
+
+ hostnamectl set-hostname <name>  ---------------> to set host name 
+
+ hostname i ---------------> to check ip adrss
+
